@@ -15,42 +15,43 @@ Currently, around **8 contributors worldwide** are actively working on both hard
 
 ---
 
-## 🛠️ Hardware Projects  
 
-### 🔹 Equip-1  
-- FireWire board (VT6315N) for Raspberry Pi 4/5  
-- Connects over PCIe ribbon cable  
-- Prototype PCBs ordered  
-- 3D-printable cases available  
+## 🛠️ Hardware  
 
-### 🔹 FireBoard  
-- Custom **Compute Module 5 (CM5)** carrier board  
+[🔗 OpenMRC Hardware Repository](https://github.com/openMRC/Hardware)  
+
+The main hardware path right now is the **FireBoard**, a CM5-based carrier board with integrated FireWire.  
+
+### FireBoard Features  
 - Built-in FireWire chip (VT6315N)  
-- Features:  
-  - Full-size HDMI  
-  - DSI/CSI ports  
-  - USB3 port  
-  - MicroSD slot  
-  - FireWire port  
-- ~90% design complete, pending validation before PCB prototype order  
-- 3D-printable cases in development  
+- Full-size HDMI  
+- DSI/CSI ports  
+- USB3 port  
+- MicroSD slot  
+- FireWire port  
+- ~90% design complete, validation in progress before prototype order  
+- 3D-printable cases being designed in parallel  
 
 ---
 
-## 💻 Software Development  
+## 💻 Software  
 
-- **FFmpeg** chosen as the recording engine (replacing dvgrab)  
-  - Active development  
-  - Supports advanced features  
-  - Allows realtime preview via `ffplay` on LCD or HDMI output  
-- **Kernel optimizations** planned for efficiency and performance  
-- GUI concepts:  
-  - Hybrid **touchscreen + rotary encoder** interface (inspired by iPods & iPhones)  
-- Development paths explored: **C programming, Qt for GUI, and experimental scripting**  
-- Features in progress:  
+[🔗 OpenMRC Software Repository](https://github.com/openMRC/Software)  
+
+Software development is centered on making OpenMRC reliable, efficient, and user-friendly.  
+
+### Highlights  
+- **FFmpeg** selected as the core recording engine (replacing dvgrab)  
+  - Realtime preview via `ffplay`  
+  - Expanded feature support  
+- Plans for a **stripped-down kernel** for better efficiency  
+- UI design:  
+  - Hybrid touchscreen + rotary encoder (inspired by iPods & iPhones)  
+- Development in C and exploration of Qt for GUI  
+- Features under development:  
   - Built-in level gauge  
-  - Precompiled kernel for easy setup  
-  - Potential dedicated distribution  
+  - Precompiled kernel for easy deployment  
+  - Potential dedicated OpenMRC distribution  
 
 ---
 
