@@ -83,7 +83,22 @@ Follow updates on **r/tapeless** as well.
 
 ## 📷 Gallery  
 
-> Coming soon — hardware photos, PCB renders, and case designs.  
+Here are some early looks at the FireBoard hardware and case designs:  
+
+![FireBoard Overview](fireboardOverview.png)  
+*FireBoard overview render*  
+
+![FireBoard Detail](fireboardDetail.png)  
+*Closer detail of FireBoard layout*  
+
+![FireBoard Top](fireboardTop.png)  
+*Top view of FireBoard PCB*  
+
+![FireBoard Bottom](fireboardBottom.png)  
+*Bottom view of FireBoard PCB*  
+
+![FireBoard Case](fireboardCase.png)  
+*3D printed case design for FireBoard*  
 
 ---
 
