@@ -1,5 +1,5 @@
 # OpenMRC 
-
+ <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 
 A modern, open-source re-creation of the classic FireWire DTE recorders — powered by Raspberry Pi.  
