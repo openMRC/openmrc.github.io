@@ -13,7 +13,7 @@ A modern, open-source re-creation of the classic FireWire DTE recorders — powe
 **OpenMRC** is a global community-driven project developing a **video/audio recorder** based on Raspberry Pi hardware.  
 Our goal is to bring back the workflow of classic FireWire-based Digital Tape Equipment (DTE) recorders — but with a modern, open-source twist.  
 
-Currently, around **8 contributors worldwide** are actively working on both hardware and software.  
+Currently, around **6 contributors worldwide** are actively working on both hardware and software.  
 
 ---
 ## 🚧 Current Progress (From the Discord)
