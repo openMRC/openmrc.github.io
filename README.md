@@ -1,8 +1,10 @@
-# OpenMRC  
+# OpenMRC 
+
+
 
 A modern, open-source re-creation of the classic FireWire DTE recorders — powered by Raspberry Pi.  
 
-![OpenMRC Banner](https://placehold.co/1000x200?text=OpenMRC+Project)  
+![OpenMRC Banner](https://placehold.co/1000x200/FFFFFF/000000?font=roboto&bold&text=OpenMRC+Project)
 
 ---
 
