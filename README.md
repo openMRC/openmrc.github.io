@@ -14,7 +14,34 @@ Our goal is to bring back the workflow of classic FireWire-based Digital Tape Eq
 Currently, around **8 contributors worldwide** are actively working on both hardware and software.  
 
 ---
+## 🚧 Current Progress (From the Discord)
 
+> PCB layout of the FireBoard is complete. After finding a source for the TI XIO2213A chip, I swapped the VIA VT6315N chip that was on the previous iteration for the TI since it has the best support of all the FW controllers. I also went down to 0402 components since JLCPCB should be able to manufacturer and fully assemble these.
+>
+> Oh and there's a new logo!
+>
+> To recap:
+>
+> * FireBoard is a proposed reference design CM5 carrier board for OpenMRC
+> * Based on a TI XIO2213A Firewire / IEEE 1394 controller
+> * Firewire port is a powered 6-pin
+> * USB3, MicroSD, HDMI, MIPI CSI-2
+> * USB-C 5V 3A power-in (non-PD)
+> * 40pin GPIO (GPIO 22-27 unavailable, used for MicroSD)
+> * Fan header
+> * Power switch
+>
+> What's next:
+>
+> * Validate the design and BOM (bill of materials/components)
+> * Place the order with JLCPCB
+
+from *sprret* on discord
+
+
+
+
+---
 
 ## 🛠️ Hardware  
 
@@ -91,14 +118,14 @@ Here are some early looks at the FireBoard hardware and case designs:
 ![FireBoard Detail](fireboardDetail.png)  
 *Closer detail of FireBoard layout*  
 
+![FireBoard Case](fireboardCase.png)  
+*3D printed case design for FireBoard*  
+
 ![FireBoard Top](fireboardTop.png)  
 *Top view of FireBoard PCB*  
 
 ![FireBoard Bottom](fireboardBottom.png)  
 *Bottom view of FireBoard PCB*  
-
-![FireBoard Case](fireboardCase.png)  
-*3D printed case design for FireBoard*  
 
 ---
 
